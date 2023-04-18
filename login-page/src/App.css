@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.pageforlogin {
+  text-align: center;
+}
+
+.imageflani{
+  height: 40vmin;
+
+}
+
+.ourform{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  
+}
